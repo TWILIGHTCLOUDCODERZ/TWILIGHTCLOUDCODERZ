@@ -1,5 +1,10 @@
-### Hi there 👋
-Energetic and positive technically skilled student having 4 years of experience along with current masters ready to explore new tech-Deepan, Ramya And Kavya.
+### Hi Awesome Human 👋
+
+Thanks for visiting TCC Page,
+
+Short Bio,
+
+Energetic and positive technically skilled professional having 4 years of experience along with current masters ready to explore new tech-Deepan, Ramya And Kavya.
 <!--
 **TWILIGHTCLOUDCODERZ/TWILIGHTCLOUDCODERZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
