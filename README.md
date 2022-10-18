@@ -4,7 +4,7 @@ Thanks for visiting TCC Page,
 
 Short Bio,
 
-Energetic and positive technically skilled professional having 4 years of experience along with current masters ready to explore new tech-Deepan, Kavya, Ramya.
+Energetic and positive technically skilled student  having 4 years of experience along with current masters ready to explore new tech-Deepan, Kavya, Ramya.
 
 Check our hackathon channel-## https://www.youtube.com/channel/UCVmhGFK96iNIwh-g3dNbRYQ/videos
 
