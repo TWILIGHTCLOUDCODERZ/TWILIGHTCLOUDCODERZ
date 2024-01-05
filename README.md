@@ -4,7 +4,10 @@ Thanks for visiting TCC Page,
 
 Short Bio,
 
-Energetic and positive technically skilled student  having 4 years of experience along with current masters ready to explore new tech-Deepan, Kavya, Ramya.
+
+MONONYMOUSLY CALLED AS MODERNMONK/DEEPANVAMPIRE BUT TRUTH IS AM DEEPANRAJ
+CLOUD ENGINEER || PRIVATE SECURITY RESEARCHER
+Microsoft Security Researcher [CVE-2021-24113] with 5 years of experience, I am a certified Azure and AWS Cloud Administrator. Proficient in Azure and AWS (IAAS, PAAS), networking, web application penetration testing, Node.js, Python, and Java. Additionally, I possess technical expertise in Linux, SQL, and VMware Workstation
 
 Check our hackathon channel-## https://www.youtube.com/channel/UCVmhGFK96iNIwh-g3dNbRYQ/videos
 
