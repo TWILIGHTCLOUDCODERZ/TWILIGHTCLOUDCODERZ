@@ -2,7 +2,8 @@
 
 Thanks for visiting TCC Page,
 
-Short Bio,
+- Short Bio,
+`npm install snowflake`
 
 
 MONONYMOUSLY CALLED AS MODERNMONK / DEEPANVAMPIRE BUT TRUTH IS AM DEEPANRAJ
