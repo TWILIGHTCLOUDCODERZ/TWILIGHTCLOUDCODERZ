@@ -1,9 +1,6 @@
 ### Hi Awesome Human 👋
 
-Thanks for visiting TCC Page,
-
-- Short Bio,
-`npm install snowflake`
+Thanks for visiting TCC Page
 
 
 MONONYMOUSLY CALLED AS MODERNMONK / DEEPANVAMPIRE BUT TRUTH IS AM DEEPANRAJ
