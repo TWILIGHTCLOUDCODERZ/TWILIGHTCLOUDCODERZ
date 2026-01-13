@@ -1,68 +1,103 @@
-# 👋 Welcome to Twilight Cloud Coderz
+# Hey There! I'm Deepanraj Vellingiri
 
 <div align="center">
 
 ```
-███████████████████████████████████████████████████████████████
-  🌙 DEEPANRAJ | ModernMonk | DeepanVampire 🌙
-
-  Cloud Architect × Security Researcher × DevOps Engineer
-███████████████████████████████████████████████████████████████
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   A Jovial Internet Freak Deeply in Love with 0s & 1s       ║
+║                                                              ║
+║         Cloud Architect | Security Researcher               ║
+║      Building Systems That Scale, Secure & Endure           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-### ☁️ Where Innovation Meets Security Excellence
+### ☁️ Engineering Cloud Ecosystems for Enterprise Impact
 
 [![Microsoft CVE](https://img.shields.io/badge/Microsoft-CVE--2021--24113-red?style=flat-square&logo=microsoft)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-24113)
-[![Azure Certified](https://img.shields.io/badge/Azure-Cloud%20Administrator-0078D4?style=flat-square&logo=microsoft-azure)](https://www.microsoft.com/en-us/learning/azure-certifications)
-[![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Administrator-FF9900?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/certification/)
-[![Security Focus](https://img.shields.io/badge/Security-Researcher-critical?style=flat-square&logo=security)](https://github.com)
+[![Azure Architect](https://img.shields.io/badge/Azure-Expert-0078D4?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com)
+[![AWS Architect](https://img.shields.io/badge/AWS-Expert-FF9900?style=flat-square&logo=amazon-aws)](https://aws.amazon.com)
+[![Open Source](https://img.shields.io/badge/Open%20Source-45%2B%20Projects-success?style=flat-square&logo=github)](https://github.com)
 
-**6+ Years of Excellence** | **Enterprise Architecture** | **Zero Trust Security**
+**8+ Years Enterprise Architecture** | **Security-by-Design** | **DevSecOps Pioneer**
 
-[Explore Projects](#-featured-projects) • [Tech Stack](#-technology-arsenal) • [Let's Connect](#-let-s-connect)
+[Portfolio](#-architecture-portfolio) • [Tech Stack](#-technology-arsenal) • [Let's Connect](#-connect)
 
 </div>
 
 ---
 
-## 🎯 Mission & Vision
+## 🎯 Who I Am
 
-Building **secure, scalable, and resilient** cloud infrastructure while advancing the boundaries of cybersecurity research. Every deployment is an opportunity to strengthen the digital world.
+I'm a **Cloud Architect** who doesn't just deploy infrastructure—I design **cloud ecosystems** that blend architecture, security, automation, and business impact.
 
-> *"Security is not a layer you add on top—it's the foundation on which everything is built."*
+> *"I engineer systems that scale, secure, and endure."*
 
----
+With **8+ years** of hands-on experience across **Azure and AWS**, I build solutions that solve real enterprise problems, not just look good on diagrams. Every architecture I design embeds:
 
-## 📊 Experience Overview
+- ✅ Security-by-design principles
+- ✅ DevSecOps automation layers
+- ✅ Cost optimization strategies
+- ✅ Business-aligned outcomes
 
-```
-┌─────────────────────────────────────────────────────────┐
-│ PROFESSIONAL JOURNEY                                    │
-├─────────────────────────────────────────────────────────┤
-│ Years in Industry        │ ██████████░░░░░░░░ 6+ years  │
-│ Cloud Projects           │ ██████████████████ 50+       │
-│ Security Assessments     │ ██████████░░░░░░░░ 30+       │
-│ CVEs & Disclosures       │ ███░░░░░░░░░░░░░░░ 1+        │
-│ Team Mentorships         │ ██████░░░░░░░░░░░░ 20+       │
-└─────────────────────────────────────────────────────────┘
-```
+**The Result:** Stronger compliance, faster processing, quicker stakeholder ROI through smart automation and API-driven integrations.
 
 ---
 
-## 🏆 Credentials & Certifications
+## 🔐 Security & Research
 
-### Microsoft Security Research
-- **CVE-2021-24113**: Microsoft vulnerability discovery and responsible disclosure
-- Recognized contributor to Microsoft Security Research Program
-- Active in vulnerability reward initiatives
+**Microsoft Security Researcher** | **CVE-2021-24113 Credit**
 
-### Cloud Certifications
-| Certification | Status | Year |
-|---------------|--------|------|
-| Azure Cloud Administrator | ✅ Certified | 2022 |
-| AWS Cloud Administrator | ✅ Certified | 2023 |
-| Web Application Security | ✅ Expert | 2020 |
-| Linux System Administration | ✅ Expert | 2019 |
+I don't treat security as an afterthought—it's the foundation. Every cloud architecture I design incorporates:
+
+- 🛡️ Zero Trust principles from day one
+- 🔍 Threat modeling & risk assessment
+- 🔐 Compliance automation (Azure Policy, AWS Config)
+- 🚀 Automated security scanning in CI/CD pipelines
+- 📋 Regular penetration testing & hardening
+
+Security research isn't a side project—it's embedded into how I think about infrastructure.
+
+---
+
+## 🏗️ What I Do
+
+### Cloud Architecture & Design
+```
+Requirements Analysis → Design Phase → Implementation → Optimization
+         ↓                    ↓              ↓                ↓
+    Understand Business   Blueprint       Deploy         Monitor & Scale
+    Constraints           Security       Automation     Cost Control
+```
+
+- 🎯 Enterprise cloud strategy & migration planning
+- 📐 Multi-cloud architecture design (Azure, AWS, hybrid)
+- 🔗 API-driven integrations for complex ecosystems
+- 📊 Cost optimization & FinOps strategy
+- 🚀 Serverless & containerized application design
+- 🤖 AI-powered architecture assistants
+
+### Security Engineering
+```
+Threat Assessment → Policy Design → Automation → Continuous Monitoring
+        ↓                ↓               ↓               ↓
+   Identify Risks   Define Controls  Implement RLS  Security Dashboards
+   Map Attack       Create Policies  Audit Trails   Incident Response
+```
+
+- 🔒 Security architecture design (Zero Trust, Defense-in-Depth)
+- 🛡️ Identity & access management implementation
+- 📝 Compliance frameworks (SOC 2, PCI-DSS, HIPAA, ISO 27001)
+- 🚨 Incident response & disaster recovery planning
+- 🔐 Encryption strategy & key management
+
+### DevSecOps & Automation
+- 🚀 CI/CD pipeline design with security gates
+- 🤖 Infrastructure-as-Code (Terraform, ARM, CloudFormation)
+- 📦 Container orchestration & Kubernetes deployments
+- 🔄 Automated compliance checking & remediation
+- 📊 Observability & monitoring architecture
 
 ---
 
@@ -73,293 +108,331 @@ Building **secure, scalable, and resilient** cloud infrastructure while advancin
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Hybrid Cloud](https://img.shields.io/badge/Hybrid%20Cloud-Architecture-blue?style=for-the-badge)
+![Multi-Cloud](https://img.shields.io/badge/Multi--Cloud-Orchestration-informational?style=for-the-badge)
 
 </div>
 
-**Expertise Areas:**
-- **IaaS**: Virtual Machines, Compute Instances, Containerization
-- **PaaS**: App Services, Functions, Managed Databases
-- **Infrastructure as Code**: Terraform, CloudFormation, ARM Templates
-- **CI/CD Pipelines**: GitHub Actions, Azure DevOps, Jenkins
+**Azure Expertise:**
+- Virtual Machines, App Service, Functions, Container Instances
+- Azure SQL, Cosmos DB, Data Lake, Synapse Analytics
+- Azure Policy, Security Center, Sentinel
+- Azure DevOps, Pipelines, Repos
+- Application Insights, Log Analytics
 
-### 🔐 Security & Penetration Testing
+**AWS Expertise:**
+- EC2, ECS, EKS, Lambda, RDS, DynamoDB
+- S3, CloudFront, VPC, Security Groups
+- IAM, KMS, Secrets Manager, GuardDuty
+- CloudFormation, Systems Manager
+- CloudWatch, X-Ray, Cost Explorer
+
+### 🔐 Security & Compliance
 <div align="center">
 
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-Expert-critical?style=for-the-badge)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-Advanced-orange?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-Master-red?style=for-the-badge)
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust%20Architecture-Specialist-success?style=for-the-badge)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-critical?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Pipeline-success?style=for-the-badge)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-Expert-orange?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Compliance%20Automation-Specialist-blue?style=for-the-badge)
 
 </div>
 
 **Security Specializations:**
-- Web Application Penetration Testing (WAPT)
-- Cloud Infrastructure Security Assessment
-- Network Security & Hardening
-- Compliance & RLS Policy Design
-- Threat Modeling & Risk Assessment
+- Cloud Security Architecture & Risk Management
+- Identity & Access Management (IAM, RBAC, ABAC)
+- Network Security & Segmentation
+- Data Protection & Encryption Strategy
+- Compliance Frameworks & Automation
+- Incident Response & Disaster Recovery
 
-### 🛠️ Programming Languages
+### 🛠️ Full-Stack Development
 <div align="center">
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
-### 🖥️ Infrastructure & Systems
+**Frontend:**
+- React, TypeScript, Tailwind CSS
+- Modern component architecture
+- State management & API integration
+- Responsive & accessible UI
+
+**Backend:**
+- Node.js & Express
+- RESTful & GraphQL APIs
+- Real-time systems with WebSockets
+- Microservices architecture
+
+**Data & AI:**
+- Python-based ML/AI workflows
+- Data processing & analytics
+- AI-powered architecture assistants
+- Prompt engineering & LLM integration
+
+### 🏗️ Infrastructure & DevOps
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-blue?style=for-the-badge)
 
 </div>
 
-**System Administration:**
-- Linux System Administration & Hardening
-- SQL Database Design & Optimization
-- VMware Virtualization & Management
-- Network Architecture & Design
+**Infrastructure as Code:**
+- Terraform (multi-cloud orchestration)
+- ARM Templates (Azure), CloudFormation (AWS)
+- Ansible, PowerShell automation
+- GitOps practices
+
+**Containerization & Orchestration:**
+- Docker & container best practices
+- Kubernetes (AKS, EKS) deployment & operations
+- Service mesh (Istio, Linkerd)
+- Registry management & image scanning
+
+**Databases & Data Platforms:**
+- PostgreSQL, MySQL, SQL Server
+- NoSQL (Cosmos DB, DynamoDB, MongoDB)
+- Data warehouse (Snowflake, Synapse Analytics, BigQuery)
+- Message queues (Event Hub, SQS, RabbitMQ)
 
 ---
 
-## 🚀 What I Do
+## 📈 Architecture Portfolio
 
-### ☁️ Cloud Engineering Excellence
+### 🌐 Enterprise Transformation Initiatives
+Multi-cloud architecture designs for Fortune 500 enterprises:
+- **Scalable Cloud Migration**: Designed end-to-end Azure/AWS migrations for 50K+ employees
+- **Zero-Trust Implementation**: Built security frameworks for global enterprises
+- **Cost Optimization**: Implemented FinOps strategies reducing infrastructure costs by 40%+
+- **Disaster Recovery**: Multi-region failover architectures with <5 minute RTO
 
-```
-Research → Design → Implement → Optimize → Secure
-   ↓          ↓         ↓          ↓         ↓
-Analyze   Architecture  Deploy   Performance  RLS
-Needs     Planning      IaaS/PaaS Tuning   Policies
-```
+### 🤖 AI-Powered Solutions
+Full-stack applications combining cloud architecture with AI:
+- **Architecture Assistants**: LLM-powered tools for automated cloud design recommendations
+- **Cloud-Native AI Platforms**: Scalable ML training & inference pipelines
+- **Real-time Analytics**: Event-driven architecture for data streaming & insights
+- **Intelligent Automation**: ML models for cost optimization & resource allocation
 
-- 🏗️ Design enterprise-grade cloud architectures
-- 📊 Implement scalable IaaS and PaaS solutions
-- 💰 Optimize cloud costs without compromising security
-- 🔄 Build automated CI/CD pipelines for rapid deployment
-- 📈 Performance tuning and capacity planning
-- 🛡️ Security hardening from infrastructure to application
+### 🔒 Security-First Platforms
+Zero-trust architectures for high-compliance environments:
+- **Healthcare Cloud**: HIPAA-compliant multi-tenant SaaS platform
+- **Financial Services**: PCI-DSS architecture with automated compliance
+- **Government Solutions**: FedRAMP-aligned cloud infrastructure
+- **Crypto & Web3**: Secure architecture for decentralized platforms
 
-### 🔐 Advanced Security Research
-
-```
-Reconnaissance → Scanning → Exploitation → Analysis → Reporting
-       ↓             ↓            ↓             ↓          ↓
-Gather Info   Network Map   Vulnerability  Impact   Mitigation
-             Penetration    Discovery      Report   Roadmap
-```
-
-- 🔍 Identify critical vulnerabilities in cloud environments
-- 📝 Responsible disclosure and CVE reporting
-- 🛡️ Develop secure cloud architecture patterns
-- 🔧 Security hardening & compliance management
-- 📋 Perform comprehensive penetration testing
-- 🎯 Threat modeling for enterprise applications
+### 📊 Enterprise Data Platforms
+Data architecture for petabyte-scale analytics:
+- **Data Lake Design**: Multi-region data lakes on Azure & AWS
+- **Real-time Analytics**: Event streaming with Kafka & Kinesis
+- **Data Warehouse**: Snowflake, Synapse, BigQuery implementations
+- **ML Pipelines**: End-to-end MLOps platforms
 
 ---
 
-## 🎥 Hackathon & Learning Hub
+## 🚀 Open Source Contributions
 
-<div align="center">
+**45+ MIT-Licensed Projects** across multiple domains:
 
-### Join Our Community of Cloud & Security Innovators
+### Cloud Architecture
+- Infrastructure-as-Code templates (Terraform, ARM, CloudFormation)
+- Multi-cloud orchestration frameworks
+- Cost optimization automation tools
+- Security policy libraries
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe%20to%20Hackathon%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCVmhGFK96iNIwh-g3dNbRYQ/videos)
+### Full-Stack Applications
+- Cloud-native web applications
+- Real-time collaboration platforms
+- API gateway implementations
+- Serverless application templates
 
-**What You'll Learn:**
-- 🎓 Cloud architecture best practices
-- 🔐 Advanced penetration testing techniques
-- 🚀 DevOps & infrastructure automation
-- 💡 Real-world security case studies
-- 🏆 Hackathon walkthroughs & solutions
+### AI & SaaS
+- AI-powered recommendation engines
+- LLM integration frameworks
+- Analytics & dashboard platforms
+- Automation workflow builders
 
-</div>
+### Security & DevSecOps
+- Security scanning tools
+- Compliance automation frameworks
+- Incident response playbooks
+- Infrastructure hardening scripts
 
----
-
-## 📈 Featured Projects
-
-### 🔒 Cloud Security Framework
-Enterprise-grade security framework for multi-cloud environments
-- Zero Trust Architecture implementation
-- RLS policies for PostgreSQL/Supabase
-- Automated compliance checking
-- Security hardening automation
-
-### 🌐 Microservices Architecture
-Scalable microservices deployed on Azure & AWS
-- Node.js backend services
-- Python data processing pipelines
-- Container orchestration with Kubernetes
-- Advanced networking & service mesh
-
-### 🔍 Vulnerability Scanner
-Custom vulnerability assessment tool for cloud resources
-- Automated security scanning
-- Risk scoring & prioritization
-- Compliance report generation
-- Integration with CI/CD pipelines
+**Explore more:** [GitHub Profile](https://github.com/deepantechnoids) | [Open Source Portfolio](https://deepantechnoids.github.io/)
 
 ---
 
-## 🎓 Expertise Matrix
+## 🎓 Expertise & Certifications
 
 ```
 ╔════════════════════════════════════════════════════════════╗
-║                    SKILL PROFICIENCY                       ║
+║              PROFESSIONAL EXPERTISE MATRIX                 ║
 ╠════════════════════════════════════════════════════════════╣
-║ Cloud Architecture         ███████████████████░ 95%        ║
-║ Security Research          ███████████████████░ 94%        ║
-║ DevOps & Automation        ██████████████████░░ 90%        ║
-║ Backend Development        ███████████████████░ 92%        ║
-║ Infrastructure Management  ███████████████████░ 93%        ║
-║ Penetration Testing        ██████████████████░░ 89%        ║
-║ System Administration      ████████████████████ 98%        ║
-║ Database Design & Ops      ████████████████████ 96%        ║
+║ Cloud Architecture (Azure/AWS)    ████████████████████ 98% ║
+║ Security Research & Design        ████████████████████ 96% ║
+║ DevSecOps & Automation            ███████████████████░ 95% ║
+║ Full-Stack Development            ███████████████████░ 93% ║
+║ Infrastructure as Code            ████████████████████ 97% ║
+║ AI/ML Integration & LLMs          ███████████████░░░░ 87% ║
+║ Kubernetes & Containerization     ██████████████████░░ 92% ║
+║ Enterprise Transformation         ███████████████████░ 94% ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## 🔐 Security Philosophy & Principles
-
-> *"In the world of cloud and cybersecurity, there are no shortcuts. Excellence comes from meticulous attention to detail and continuous vigilance."*
-
-### Core Principles
-
-🛡️ **Defense in Depth**
-- Multiple layers of security controls
-- No single point of failure
-- Redundancy at every level
-
-🔍 **Zero Trust Architecture**
-- Never trust, always verify
-- Assume breach mentality
-- Continuous authentication & authorization
-
-📢 **Transparent Communication**
-- Clear vulnerability disclosures
-- Stakeholder awareness
-- Risk-based prioritization
-
-🎓 **Continuous Evolution**
-- Security landscape constantly changes
-- Commitment to lifelong learning
-- Community contribution & knowledge sharing
+### Certifications & Recognition
+- ✅ Microsoft Security Researcher (CVE-2021-24113)
+- ✅ Azure Solutions Architect Expert
+- ✅ AWS Solutions Architect Professional
+- ✅ Kubernetes Application Developer (CKAD)
+- ✅ Open Source Contributor (45+ Projects)
 
 ---
 
-## 💡 What's Next
+## 🌍 Collaboration & Engagement
 
-### 🚀 Roadmap & Initiatives
+### Enterprise Solutions
+- **Presales & Solution Design**: Leading workshops for complex transformations
+- **Architecture Consulting**: Strategic guidance for cloud adoption
+- **POC & MVP Development**: Rapid prototyping of innovative solutions
+- **Team Mentorship**: Upskilling engineers in cloud & security practices
 
-- 🔬 Advanced cloud security research frameworks
-- 📚 Infrastructure as Code best practices guide
-- 🎯 Zero Trust architecture implementation guide
-- 🔓 Vulnerability research deep-dives & case studies
-- 🌐 Open-source security tools development
-- 👥 Community mentorship program
+### Global & North American Enterprise Clients
+Collaborated with leading organizations on:
+- Multi-cloud strategy & migration
+- Security architecture & compliance
+- Cost optimization initiatives
+- AI/ML platform implementations
+- DevSecOps transformation
+- Disaster recovery planning
 
----
-
-## 📊 Quick Stats Dashboard
-
-```
-┌──────────────────────────────────────────────────────┐
-│          CAREER HIGHLIGHTS & METRICS                │
-├──────────────────────────────────────────────────────┤
-│ ✓ Years of Experience      │ 6+ years               │
-│ ✓ CVEs Discovered          │ 1+ (Microsoft)         │
-│ ✓ Cloud Platforms Mastered │ Azure, AWS, GCP        │
-│ ✓ Projects Delivered       │ 50+ successful         │
-│ ✓ Security Audits          │ 30+ completed          │
-│ ✓ Programming Languages    │ 4+ proficient          │
-│ ✓ Team Members Mentored    │ 20+ professionals      │
-│ ✓ Certifications Earned    │ 4+ industry standard   │
-└──────────────────────────────────────────────────────┘
-```
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-### Ready to Collaborate on Groundbreaking Projects?
-
-I'm passionate about:
-- 🏗️ Enterprise cloud architecture design
-- 🔐 Advanced security research initiatives
-- 🤝 Mentoring next-gen cloud engineers
-- 🚀 Building innovative solutions together
-- 📊 Optimizing infrastructure for scale
-
-**Let's build something extraordinary together!**
-
----
-
-### Find Me Here
-
-[![YouTube](https://img.shields.io/badge/YouTube-Tutorials%20%26%20Guides-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCVmhGFK96iNIwh-g3dNbRYQ/videos)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/TWILIGHTCLOUDCODERZ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail)](mailto:deepanraj@example.com)
-
----
-
-## 📚 Resources & Guides
-
-### Learning & Development
-- [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
-- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
-- [Kubernetes Documentation](https://kubernetes.io/docs/)
-- [PostgreSQL Security](https://www.postgresql.org/docs/current/sql-syntax.html)
-
-### Security Research
-- [CVE Details](https://www.cvedetails.com/)
-- [Security Advisories](https://www.cisa.gov/alerts-advisories)
-- [Exploit Database](https://www.exploit-db.com/)
+### Speaking & Community
+- Cloud architecture workshops
+- Security research presentations
+- Open source community engagement
+- Developer community initiatives
 
 ---
 
 ## 🎯 Current Focus
 
 ```
-2024 Initiatives:
-├─ 🔬 Advanced Cloud Security Research
-├─ 📖 Publishing Security Best Practices Guide
-├─ 🚀 Open Source Security Tools Development
-├─ 👨‍🏫 Expanding Mentorship Program
-├─ 🌐 Building Community Around Cloud Security
-└─ 🔐 Zero Trust Implementation Frameworks
+2025 Priorities:
+├─ 🏗️ Enterprise Cloud Transformation Architectures
+├─ 🤖 AI-Powered Cloud Architecture Intelligence
+├─ 🔐 Zero Trust Architecture Implementation Guides
+├─ 📚 Cloud Security & DevSecOps Best Practices
+├─ 🚀 Open Source Infrastructure Tools
+└─ 👥 Cloud Engineering Mentorship Program
+```
+
+---
+
+## 💡 Philosophy
+
+> *"Cloud architecture isn't just about deploying resources—it's about engineering resilient ecosystems that balance innovation, security, and business impact."*
+
+**My Approach:**
+- 🎯 **Business-First**: Every architecture decision tied to business outcomes
+- 🛡️ **Security-by-Design**: No security band-aids, only foundational integrity
+- 📊 **Data-Driven**: Metrics, monitoring, and continuous optimization
+- 🚀 **Automation-Obsessed**: Repeatable, scalable, self-healing systems
+- 👥 **Collaboration-Focused**: Clear communication with architects, engineers, and stakeholders
+- ♻️ **Continuously Learning**: Stay ahead of cloud evolution & emerging technologies
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+### Ready for Complex Cloud Challenges?
+
+I'm passionate about:
+- 🏗️ Enterprise cloud architecture & transformation
+- 🔐 Security-first system design
+- 🤖 AI integration in cloud platforms
+- 🚀 Building innovative solutions from scratch
+- 📊 Optimizing cloud cost & performance
+- 👥 Mentoring cloud engineers
+
+**Let's build cloud infrastructure that matters!**
+
+---
+
+### Find Me Here
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-deepantechnoids.github.io-blue?style=for-the-badge&logo=globe)](https://deepantechnoids.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-45%2B%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/deepantechnoids)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cloud%20Architect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deepanraj)
+[![Twitter](https://img.shields.io/badge/Twitter-Cloud%20%26%20Security-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/deepantechnoids)
+
+---
+
+### 📚 My Resources
+
+**Cloud Architecture:**
+- [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+- [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
+**Security & Compliance:**
+- [Zero Trust Architecture](https://www.microsoft.com/security/business/zero-trust/)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [Cloud Security Best Practices](https://cloud.google.com/security/best-practices)
+
+**DevSecOps:**
+- [CISA Cloud Security Guidance](https://cisa.gov/cloud-security)
+- [DevSecOps Best Practices](https://www.devsecops.org/)
+- [Infrastructure as Code Security](https://www.gitops.tech/)
+
+---
+
+</div>
+
+---
+
+## 📊 Quick Stats
+
+```
+┌────────────────────────────────────────────────────────┐
+│         CAREER & CONTRIBUTION METRICS                 │
+├────────────────────────────────────────────────────────┤
+│ Years of Experience          │ 8+ years               │
+│ Enterprise Solutions Built   │ 50+ deployments        │
+│ Open Source Projects         │ 45+ MIT-Licensed       │
+│ Security CVEs Credited       │ 1+ (Microsoft)         │
+│ Cloud Platforms              │ Azure, AWS, Hybrid     │
+│ Global Enterprise Clients    │ North America & Global │
+│ Engineering Leadership       │ Teams mentored         │
+│ DevSecOps Implementations    │ 25+ organizations      │
+└────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for Visiting!
+### 🚀 Let's Engineer Something Extraordinary
 
-**Twilight Cloud Coderz** - *Where Cloud Engineering Meets Security Innovation*
+**Deepanraj Vellingiri** | Cloud Architect | Security Researcher | Builder
+
+*Passionate about designing cloud ecosystems that scale, secure, and endure*
 
 ```
-Stay Secure | Stay Scalable | Stay Innovative
+If it's about Cloud × Security × AI × Building
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I'm All In.
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=TWILIGHTCLOUDCODERZ&color=blueviolet&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/TWILIGHTCLOUDCODERZ?style=flat-square&logo=github)
-
-*Last Updated: 2024*
+[Visit Portfolio](https://deepantechnoids.github.io/) • [View Projects](https://github.com/deepantechnoids) • [Let's Connect](#-connect)
 
 </div>
 
 ---
 
-**Remember:** *In security, the best offense is a good defense. Let's build something secure, scalable, and extraordinary together!*
+**Last Updated:** 2025 | *Committed to engineering cloud excellence*
